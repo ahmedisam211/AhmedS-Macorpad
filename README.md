@@ -2,7 +2,7 @@
 This is a 10-key macropad with a rotary encoder and OLED display.
 Its my Submission for Blueprint.
 
-<img width="657" height="436" alt="image" src="https://github.com/user-attachments/assets/cf4e1ea0-043a-4634-a037-44d5b4d63e81" />
+<img width="657" height="436" alt="image" src="https://github.com/user-attachments/assets/cf4e1ea0-043a-4634-a037-44d5b4d63e81" /> 
 
 
 ## Features
