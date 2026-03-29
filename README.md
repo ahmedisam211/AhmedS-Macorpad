@@ -1,6 +1,7 @@
 # Ahmed's Macropad
 This is a 10-key macropad with a rotary encoder and OLED display.
 Its my Submission for Blueprint.
+
 <img width="657" height="436" alt="image" src="https://github.com/user-attachments/assets/cf4e1ea0-043a-4634-a037-44d5b4d63e81" />
 
 
@@ -14,6 +15,7 @@ Its my Submission for Blueprint.
 
 ## PCB
 Made in KiCad. 2 layer board, just under 100×100mm.
+
 <img width="634" height="574" alt="image" src="https://github.com/user-attachments/assets/98c69402-d512-4590-b1ab-2ce8d3e13efc" />
 
 ### Schematic
@@ -24,7 +26,7 @@ Made in KiCad. 2 layer board, just under 100×100mm.
 
 ## CAD 
 Made in SolidWorks. Everything fits together using 
-3x M3x16mm screws, 2x M3x12mm screws and 5x M3x5x4mm heatset inserts.
+5x M3x16mm screws, screws and 5x M3x5x4mm heatset inserts.
 5 printed parts: Top, Middle, Bottom, Base, Cover.
 
 <img width="786" height="495" alt="image" src="https://github.com/user-attachments/assets/b8894e62-4366-4c73-b716-c4b42f0055ea" />
@@ -45,6 +47,5 @@ I used KMK for the firmware, each key has a seprate function, the rotary encoder
 | EC11 Rotary Encoder | 1 |
 | 0.91" OLED Display | 1 |
 | DSA Keycaps | 10 |
-| M3x16mm Screws | 3 |
-| M3x12mm Screws | 2 |
+| M3x16mm Screws | 5 |
 | M3x5x4mm Heatset Inserts | 5 |
